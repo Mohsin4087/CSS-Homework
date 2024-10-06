@@ -1,0 +1,67 @@
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  text-align: center;
+}
+
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  text-align: center;
+}
+hr{
+  border-style: dashed;
+}
+
+.p-intro{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+.p-history{
+  font-weight: lighter;
+  font-family: cursive;
+  color: chocolate;
+}
+
+.history-list{
+  font-family: Arial, Helvetica, sans-serif;
+  list-style-type: square;
+}
+
+.p-achievment{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: pink;
+}
+
+.individual{
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+
+.records{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: end;
+  color: coral;
+  list-style-position: end;
+}
+
+.p-media{
+  color: yellow;
+}
+
+.label{
+  margin-left: 50px;
+  border-width: 2px;
+  border-style: dashed;
+  border-color: blue;
+}
+
+#insta {
+  color: pink;
+  font-weight: bold;
+  font-family: fantasy;
+}
+
